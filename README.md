@@ -1,4 +1,4 @@
-                                                          Hi there ![image](https://user-images.githubusercontent.com/108763582/229145385-661cacdd-263a-4fb9-81ac-c4374884f6d5.png)
+                                                        🤔 WELCOME MY PROFILE! 🤔
 
 
 <!--
