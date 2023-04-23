@@ -11,7 +11,7 @@
 
 ### :open_file_folder: &nbsp;Technologies of interest
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-5c4196?style=flat&logo=javascript)&nbsp;![CSS](https://img.shields.io/badge/-CSS-5c4196?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;![HTML](https://img.shields.io/badge/-HTML-5c4196?style=flat&logo=HTML&logoColor=1572B6)&nbsp;![PAWNO](https://img.shields.io/badge/-PAWNO-5c4196?style=flat&logo=PAWN&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-5c4196?style=flat&logo=javascript)&nbsp;![CSS](https://img.shields.io/badge/-CSS-5c4196?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;![HTML](https://img.shields.io/badge/-HTML-5c4196?style=flat&logo=HTML5&logoColor=1572B6)&nbsp;![PAWNO](https://img.shields.io/badge/-PAWNO-5c4196?style=flat&logo=PAWNO&logoColor=1572B6)&nbsp;
 
 
 
