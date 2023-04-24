@@ -7,7 +7,7 @@
 
 ### :triangular_ruler: &nbsp;Work Technologies
 
-![LUA](https://img.shields.io/badge/-Lua-5c4196?style=flat&logo=lua&logoColor=4287f5)&nbsp;!
+![LUA](https://img.shields.io/badge/-Lua-5c4196?style=flat&logo=lua&logoColor=4287f5)&nbsp;
 
 ### :open_file_folder: &nbsp;Technologies of interest
 
