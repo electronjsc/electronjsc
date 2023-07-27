@@ -9,6 +9,10 @@
 <table>
     <tr>
         <td align="center" width="96">
+            <img src="https://sun6-22.userapi.com/s/v1/ig1/lcNh2ISYpIBbomD53p2EZIsgD97PMClZ80nf7SAH-WXyOIZZqFQcZHdC0v1QJWpUgNkKUf35.jpg?size=748x748&quality=96&crop=26,26,748,748&ava=1" alt="icon" width="65" height="65" />
+          <br>PAWN
+        </td>
+        <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
           <br>Vue
         </td>
