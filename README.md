@@ -29,33 +29,37 @@
 
 ### 🛠 &nbsp;Tools
 
-<td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-  <br>Github
-</td>
-<td align="center"  width="96">
-    <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-  <br>HTML5
-</td>
-<td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-  <br>NodeJs
-</td>
-<td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
-  <br>VSCode
-</td>
-<td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
-  <br>Sass
-</td>
-<td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-  <br>Tailwind
-</td>
-<td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-  <br>MySQL
-</td>
+<table>
+    <tr>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+          <br>Github
+        </td>
+        <td align="center"  width="96">
+            <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+          <br>HTML5
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+          <br>NodeJs
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+          <br>VSCode
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
+          <br>Sass
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+          <br>Tailwind
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+          <br>MySQL
+        </td>
+    </tr>
+</table>
 
                                                           
