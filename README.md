@@ -6,23 +6,31 @@
 <img alt="Night Coding" src="https://i.imgur.com/MfXGIDb.png" align="right"/>
 
 ### :triangular_ruler: &nbsp;Work Technologies
-<td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
-  <br>Vue
-</td>
-<td align="center" width="96">
-    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-  <br>TypeScript
-</td>
+<table>
+    <tr>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
+          <br>Vue
+        </td>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+          <br>TypeScript
+        </td>
+     </tr>
+</table>
 
 
 
 ### :open_file_folder: &nbsp;Technologies of interest
 
-<td align="center" width="96">
-    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-  <br>JavaScript
-</td>
+<table>
+    <tr>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+          <br>JavaScript
+        </td>
+    </tr>
+</table>
 
 
 
