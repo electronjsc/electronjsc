@@ -43,6 +43,7 @@
 </table>
 
 
+<img alt="Night Coding" src="https://i.imgur.com/MfXGIDb.png" align="right"/> 
 
 
 ### 🛠 &nbsp;Tools
@@ -78,6 +79,4 @@
           <br>MySQL
         </td>
     </tr>
-</table>
-
-<img alt="Night Coding" src="https://i.imgur.com/MfXGIDb.png" align="right"/>                               
+</table>                              
