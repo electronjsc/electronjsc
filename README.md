@@ -6,18 +6,56 @@
 <img alt="Night Coding" src="https://i.imgur.com/MfXGIDb.png" align="right"/>
 
 ### :triangular_ruler: &nbsp;Work Technologies
+<td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
+  <br>Vue
+</td>
+<td align="center" width="96">
+    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+  <br>TypeScript
+</td>
 
-![LUA](https://img.shields.io/badge/-Lua-5c4196?style=flat&logo=lua&logoColor=4287f5)&nbsp;
+
 
 ### :open_file_folder: &nbsp;Technologies of interest
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-5c4196?style=flat&logo=javascript)&nbsp;![CSS](https://img.shields.io/badge/-CSS-5c4196?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;![HTML](https://img.shields.io/badge/-HTML-5c4196?style=flat&logo=HTML5&logoColor=FF5733)&nbsp;![PAWN](https://img.shields.io/badge/-pawn-5c4196?style=flat&logo=pawn&logoColor=1572B6)&nbsp;
+<td align="center" width="96">
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+  <br>JavaScript
+</td>
+
 
 
 
 ### 🛠 &nbsp;Tools
 
-![Git](https://img.shields.io/badge/-Git-5c4196?style=flat&logo=git)&nbsp;![GitHub](https://img.shields.io/badge/-GitHub-5c4196?style=flat&logo=github)&nbsp;![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-5c4196?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
-![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-5c4196?style=flat&logo=sublime-text)&nbsp;
+<td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+  <br>Github
+</td>
+<td align="center"  width="96">
+    <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+  <br>HTML5
+</td>
+<td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+  <br>NodeJs
+</td>
+<td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+  <br>VSCode
+</td>
+<td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
+  <br>Sass
+</td>
+<td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+  <br>Tailwind
+</td>
+<td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+  <br>MySQL
+</td>
 
                                                           
