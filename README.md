@@ -13,7 +13,7 @@
           <br>PAWN
         </td>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=vue" width="56" height="56" alt="Vue" />
+            <img src="https://skillicons.dev/icons?i=vue" width="60" height="60" alt="Vue" />
           <br>Vue
         </td>
         <td align="center" width="96">
