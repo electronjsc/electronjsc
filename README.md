@@ -1,6 +1,6 @@
 ### 👨 &nbsp;About Me
 
-✍️ &nbsp;I've been working with development of games and desktop applications.\
+✍️ &nbsp;I am developing game mods and web applications.\
 ✉️ &nbsp;You can contact me through my Disocrd/Telegram whenever you want for a project, question or even a coffee...
 
 <img alt="Night Coding" src="https://i.imgur.com/MfXGIDb.png" width="380" height="380" align="right"/> 
