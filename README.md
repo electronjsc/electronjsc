@@ -3,7 +3,7 @@
 ✍️ &nbsp;I am developing game mods and web applications.\
 ✉️ &nbsp;You can contact me through my Disocrd/Telegram whenever you want for a project, question or even a coffee...
 
-<img alt="Night Coding" src="https://i.imgur.com/MfXGIDb.png" width="350" height="350" align="right"/> 
+<img alt="Night Coding" src="https://i.imgur.com/MfXGIDb.png" width="320" height="320" align="right"/> 
 
 ### :triangular_ruler: &nbsp;Work Technologies
 <table>
