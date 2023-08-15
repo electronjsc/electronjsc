@@ -21,15 +21,15 @@
           <br>TypeScript
         </td> -->
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
+            <img src="https://skillicons.dev/icons?i=sass" width="60" height="60" alt="Sass" />
           <br>Sass
         </td>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+            <img src="https://skillicons.dev/icons?i=tailwind" width="60" height="60" alt="tailwind" />
           <br>Tailwind
         </td>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=js" alt="icon" width="65" height="65" />
+            <img src="https://skillicons.dev/icons?i=js" alt="icon" width="60" height="60" />
           <br>JavaScript
         </td>
      </tr>
