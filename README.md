@@ -16,10 +16,10 @@
             <img src="https://skillicons.dev/icons?i=vue" width="60" height="60" alt="Vue" />
           <br>Vue
         </td>
-        <td align="center" width="96">
+<!--      <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=ts" alt="icon" width="65" height="65" />
           <br>TypeScript
-        </td>
+        </td> -->
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=js" alt="icon" width="65" height="65" />
           <br>JavaScript
