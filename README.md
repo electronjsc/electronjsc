@@ -13,14 +13,6 @@
           <br>PAWN
         </td>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=vue" width="60" height="60" alt="Vue" />
-          <br>Vue
-        </td>
-<!--      <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=ts" alt="icon" width="65" height="65" />
-          <br>TypeScript
-        </td> -->
-        <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=sass" width="60" height="60" alt="Sass" />
           <br>Sass
         </td>
@@ -32,6 +24,10 @@
             <img src="https://skillicons.dev/icons?i=js" alt="icon" width="60" height="60" />
           <br>JavaScript
         </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+          <br>MySQL
+        </td>
      </tr>
 </table>
 
@@ -42,6 +38,14 @@
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=react" alt="icon" width="65" height="65" />
           <br>React
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=vue" width="60" height="60" alt="Vue" />
+          <br>Vue
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=ts" alt="icon" width="65" height="65" />
+          <br>TypeScript
         </td>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=c" alt="icon" width="65" height="65" />
@@ -69,10 +73,6 @@
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
           <br>VSCode
-        </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-          <br>MySQL
         </td>
     </tr>
 </table>                              
