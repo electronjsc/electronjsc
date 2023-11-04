@@ -76,3 +76,24 @@
         </td>
     </tr>
 </table>                              
+
+
+```cpp
+#include <iostream>
+
+int main() {
+    const std::string Name = "electronjsc";
+    const std::string currentFocus = "DDoS Mitigation and Detection";
+    const std::string hehe = "electronjsc's Cupcake Factory";
+
+    std::cout << "*************************************************************" << std::endl;
+    std::cout << "******************** " << hehe << " *******************" << std::endl;
+    std::cout << "*************************************************************" << std::endl;
+    std::cout << "🎉 Welcome to my uh repo place!" << std::endl;
+    std::cout << "🔥 I'm " << Name << ", a very good yesyes developer." << std::endl;
+    std::cout << "🔍 Currently focusing on " << currentFocus << "."<< std::endl;
+    std::cout << "hmu if you want to work on something" << std::endl;
+
+    return 0;
+}
+```
